@@ -4,7 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
+This project is a starting point for a Flutter application
 This project is a starting point for a Flutter application.
+This is basically a front end for a mobile app for generation using flutter and the learning    model for asmr is 
+trained and to be connected to the app through huggingface.
+The chat space is where a input text can be provided and thecorrespondin ASmR will be produced in the App.	
+	
+
 
 A few resources to get you started if this is your first Flutter project:
 
